@@ -1,0 +1,31 @@
+# Vipul Online Store
+
+A simple online store created using only **HTML**.  
+This is my first web project — made to learn and practice HTML basics.  
+Live demo available here: **[Click to View](https://Vipul-sharm.github.io/Vipul Online Store)**
+
+---
+
+## 📜 Description
+This is a beginner-friendly online store website built using **pure HTML** without CSS or JavaScript.  
+It contains:
+- A homepage with store title and welcome message.
+- A products section with images and prices.
+- A contact form to connect with customers.
+
+---
+
+## 📂 Project Structure
+vipul online store /
+│
+├── index.html # Main HTML file
+├── product1.jpg # Example product image
+├── product2.jpg
+└── README.md # Project description
+
+---
+
+## 🚀 How to View Locally
+1. Download or clone the repository:
+   ```bash
+   git clone https://github.com/Vipul-sharm/Vipul Online Store.git
