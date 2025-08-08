@@ -3,7 +3,7 @@
 This is my first online store built using only HTML.
 
 ## Live Demo
-[Click here to visit the store](https://<Vipul-sharm>.github.io/<Vipul-online-store>/)
+[Click here to visit the store] https://vipul-sharm.github.io/Vipul-online-Store-/
 
 ## About
 - Built using only HTML
